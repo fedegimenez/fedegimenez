@@ -30,8 +30,7 @@
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fedegimenez&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedegimenez)](https://github.com/fedegimenez/github-readme-stats)
+
   
  ## Contador de Visitas 👀
 <p align="center"><img src="https://profile-counter.glitch.me/{fedegimenez}/count.svg" alt="dileo24 :: Contador de Visitantes" /></p>
