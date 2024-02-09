@@ -1,15 +1,20 @@
 
 # Hola, soy Federico 👋!
-# Hello, I'm Federico 👋!
 
 🚀 Soy Full Stack Developer jr, Analista en sistemas jr, Analista de Datos jr y estudiante de Ingeniería en Sistemas.
-    I am Full Stack Developer Jr, Systems Analyst Jr, Data Analyst Jr and Systems Engineering student.
 
 👨‍💻 Tengo conocimientos trabajando con HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn. 
-    I have knowledge working with HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn.
 
 🏆 Aspiro a ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
-    I aspire to constantly challenge myself to continue learning. I am a person focused on improving teamwork through fluid back-and-forth with my colleagues, I adapt quickly to unfamiliar environments and I am always willing to learn everything that helps me improve my work.
+
+
+# Hello, I'm Federico 👋!
+
+🚀 I am Full Stack Developer Jr, Systems Analyst Jr, Data Analyst Jr and Systems Engineering student.
+
+👨‍💻 I have knowledge working with HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn.
+
+🏆 I aspire to constantly challenge myself to continue learning. I am a person focused on improving teamwork through fluid back-and-forth with my colleagues, I adapt quickly to unfamiliar environments and I am always willing to learn everything that helps me improve my work.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gimenez01/)
