@@ -1,7 +1,7 @@
 
 # Hola, soy Federico 👋!
 
-🚀 Soy Full Stack Developer, Analista en sistemas y estudiante de Ingeniería en Sistemas.
+🚀 Soy Full Stack Developer jr, Analista en sistemas jr, Analista de Datos jr y estudiante de Ingeniería en Sistemas.
 
 👨‍💻 Tengo conocimientos trabajando con HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn.  
 
