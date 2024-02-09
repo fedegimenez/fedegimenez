@@ -1,26 +1,30 @@
 
 # Hola, soy Federico 👋!
+# Hello, I'm Federico 👋!
 
 🚀 Soy Full Stack Developer jr, Analista en sistemas jr, Analista de Datos jr y estudiante de Ingeniería en Sistemas.
+    I am Full Stack Developer Jr, Systems Analyst Jr, Data Analyst Jr and Systems Engineering student.
 
-👨‍💻 Tengo conocimientos trabajando con HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn.  
+👨‍💻 Tengo conocimientos trabajando con HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn. 
+    I have knowledge working with HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn.
 
 🏆 Aspiro a ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
+    I aspire to constantly challenge myself to continue learning. I am a person focused on improving teamwork through fluid back-and-forth with my colleagues, I adapt quickly to unfamiliar environments and I am always willing to learn everything that helps me improve my work.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gimenez01/)
 
 ## Tech Stack
 
-**Programación**: Python, JavaScript, TypeScript
+**Programación (Programming)**: Python, JavaScript, TypeScript
 
-**Librerías de Python**: Pandas, Seaborn, Matplotlib
+**Librerías de Python (Python libraries)**: Pandas, Seaborn, Matplotlib
 
 **Front-end**: HTML5, CSS3, React
 
 **Back-end**: Node.js, Express.js
 
-**Base de datos**: PostgreSQL
+**Base de datos (DataBase)**: MySQL, PostgreSQL
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
@@ -39,5 +43,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fedegimenez&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   
- ## Contador de Visitas 👀
+ ## Contador de Visitas (Visitor counter) 👀 
 <p align="center"><img src="https://profile-counter.glitch.me/{fedegimenez}/count.svg" alt="dileo24 :: Contador de Visitantes" /></p>
