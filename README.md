@@ -13,9 +13,13 @@
 ## Tech Stack
 
 **Programación**: Python, JavaScript, TypeScript
+
 **Librerías de Python**: Pandas, Seaborn, Matplotlib
+
 **Front-end**: HTML5, CSS3, React
+
 **Back-end**: Node.js, Express.js
+
 **Base de datos**: PostgreSQL
 
 <h3 align="left">Languages and Tools:</h3>
