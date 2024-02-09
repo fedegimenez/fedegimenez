@@ -8,7 +8,7 @@
 🏆 Aspiro a ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gimenez-79ba332a2/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gimenez01/)
 
 ## Tech Stack
 
