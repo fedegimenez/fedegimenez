@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://es.wikipedia.org/wiki/Python#/media/Archivo:Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/_images/pandas-logo.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/seaborn-logo.png" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
