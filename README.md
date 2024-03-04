@@ -3,7 +3,7 @@
 
 🚀 Soy Full Stack Developer jr, Analista en sistemas jr, Analista de Datos jr y estudiante de Ingeniería en Sistemas.
 
-👨‍💻 Tengo conocimientos trabajando con HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn. 
+👨‍💻 Tengo conocimientos trabajando con HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn, Excel. Power BI y Tableau. 
 
 🏆 Aspiro a ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
 
