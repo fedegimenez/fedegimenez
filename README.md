@@ -45,7 +45,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 
 ## My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fedegimenez&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fedegimenez)](https://git.io/streak-stats)
 
   
  ## Contador de Visitas (Visitor counter) 👀 
