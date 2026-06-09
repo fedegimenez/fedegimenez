@@ -1,6 +1,6 @@
 # Hi, I'm Federico Gimenez
 
-I'm an AI/LLM Technology Architecture Manager at Accenture and a Systems Engineering student, with experience across AI engineering, data engineering, and full stack software development.
+I'm an AI/LLM Technology Architecture Analyst at Accenture and a Systems Engineering student, with experience across AI engineering, data engineering, and full stack software development.
 
 I work on designing and implementing AI-powered solutions, including LLM integrations, agentic workflows, OCR-based document processing, data pipelines, automation tools, and business applications. My background combines software engineering, data processing, cloud-oriented development, and practical AI implementation.
 
