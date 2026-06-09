@@ -1,52 +1,115 @@
+# Hi, I'm Federico Gimenez
 
-# Hola, soy Federico 👋!
+I'm an AI/LLM Technology Architecture Manager at Accenture and a Systems Engineering student, with experience across AI engineering, data engineering, and full stack software development.
 
-🚀 Soy Full Stack Developer jr, Analista en sistemas jr, Analista de Datos jr y estudiante de Ingeniería en Sistemas.
+I work on designing and implementing AI-powered solutions, including LLM integrations, agentic workflows, OCR-based document processing, data pipelines, automation tools, and business applications. My background combines software engineering, data processing, cloud-oriented development, and practical AI implementation.
 
-👨‍💻 Tengo conocimientos trabajando con HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn, Excel. Power BI y Tableau. 
+Before focusing more deeply on AI and LLM systems, I worked as a Software Developer building enterprise applications with C#/.NET, WPF, WinForms, PHP, Angular, MySQL, and SQL Server. I also implemented OCR and GPT-based pipelines for invoice processing, supplier file interpretation, and purchase order matching.
 
-🏆 Aspiro a ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
+I’m especially interested in AI engineering, LLM architecture, data platforms, automation, and building systems that turn complex business processes into reliable software solutions.
 
+## Links
 
-# Hello, I'm Federico 👋!
-
-🚀 I am Full Stack Developer Jr, Systems Analyst Jr, Data Analyst Jr and Systems Engineering student.
-
-👨‍💻 I have knowledge working with HTML5, CSS3, JavaScript, TypeScript, Node.js, Express, React.js, SQL, Sequelize, Python, Pandas, Seaborn.
-
-🏆 I aspire to constantly challenge myself to continue learning. I am a person focused on improving teamwork through fluid back-and-forth with my colleagues, I adapt quickly to unfamiliar environments and I am always willing to learn everything that helps me improve my work.
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gimenez01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/federico-gimenez01/)
 
 ## Tech Stack
 
-**Programación (Programming)**: Python, JavaScript, TypeScript
+**AI / LLM Engineering:** OpenAI API, Anthropic Claude, prompt engineering, RAG, agentic workflows, OCR pipelines, structured extraction, LLM-based automation
 
-**Librerías de Python (Python libraries)**: Pandas, Seaborn, Matplotlib
+**Programming:** Python, Java, C#, JavaScript, TypeScript, PHP
 
-**Front-end**: HTML5, CSS3, React
+**Data Engineering:** PySpark, SQL, Pandas, data pipelines, ETL/ELT, data modeling
 
-**Back-end**: Node.js, Express.js
+**Back-end:** .NET, Node.js, Express.js, PHP/Symfony, REST APIs
 
-**Base de datos (DataBase)**: MySQL, PostgreSQL
+**Front-end:** React, Angular, HTML5, CSS3
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/pandas-dev/pandas/blob/main/web/pandas/static/img/pandas_secondary_white.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://github.com/mwaskom/seaborn/blob/master/doc/_static/logo-mark-lightbg.png" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
+**Databases:** MySQL, SQL Server, PostgreSQL
 
-## My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fedegimenez&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+**Cloud / DevOps:** AWS, Google Cloud Vision, serverless deployments, Git, CI/CD basics
 
-  
- ## Contador de Visitas (Visitor counter) 👀 
-<p align="center"><img src="https://profile-counter.glitch.me/{fedegimenez}/count.svg" alt="dileo24 :: Contador de Visitantes" /></p>
+**Business Intelligence:** Power BI, Excel
+
+## Experience Highlights
+
+* Designed and implemented AI-powered solutions using LLM APIs, OCR, structured extraction, and automation workflows.
+* Built document processing pipelines to extract data from invoices and supplier files, reducing manual data entry.
+* Developed enterprise management applications using C#/.NET, WPF, WinForms, PHP, Angular, MySQL, and SQL Server.
+* Worked on invoice-to-purchase-order matching, item-level reconciliation, and business process automation.
+* Built data-oriented solutions involving SQL, Python, Pandas, PySpark, and reporting tools.
+* Currently focused on AI/LLM architecture, agentic systems, and practical enterprise AI adoption.
+
+## Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://symfony.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fedegimenez\&theme=highcontrast\&hide_border=true\&locale=en\&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## Visitor Counter
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/fedegimenez/count.svg" alt="Visitor Counter" />
+</p>
