@@ -1,34 +1,81 @@
 # Hi, I'm Federico Gimenez
 
-I'm an AI/LLM Technology Architecture Analyst at Accenture and a Systems Engineering student, with experience across AI engineering, data engineering, and full stack software development.
+I'm an AI/LLM Technology Architecture Manager at Accenture and a Systems Engineering student, with experience across AI engineering, data engineering, and full stack software development.
 
 I work on designing and implementing AI-powered solutions, including LLM integrations, agentic workflows, OCR-based document processing, data pipelines, automation tools, and business applications. My background combines software engineering, data processing, cloud-oriented development, and practical AI implementation.
 
 Before focusing more deeply on AI and LLM systems, I worked as a Software Developer building enterprise applications with C#/.NET, WPF, WinForms, PHP, Angular, MySQL, and SQL Server. I also implemented OCR and GPT-based pipelines for invoice processing, supplier file interpretation, and purchase order matching.
 
-I’m especially interested in AI engineering, LLM architecture, data platforms, automation, and building systems that turn complex business processes into reliable software solutions.
+I'm especially interested in AI engineering, LLM architecture, data platforms, automation, and building systems that turn complex business processes into reliable software solutions.
 
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/federico-gimenez01/)
 
+## Certifications
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="[](https://www.credly.com/badges/5a216e62-6298-4e3c-9429-445ebf31629a)" target="_blank">
+        <img src="https://images.credly.com/size/220x220/images/2d613ff8-8879-430b-88c4-3af2bcd50b7c/image.png" width="110" alt="Google Cloud Professional Data Engineer Badge"/>
+      </a>
+    </td>
+    <td>
+      <strong>Google Cloud Professional Data Engineer</strong><br/>
+      Certified in designing, building, operationalizing, securing, and monitoring data processing systems on Google Cloud.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a target="_blank">
+        <img src="https://cc.sj-cdn.net/certificate/oa14wvkjuau6/certificate-86xiukkoit7i-1777713417.jpg?Expires=1781038359&Signature=Nc4WxQbobH5ULRDS~w1f6wuesvfJwZNha2EUWee9tueoBNoCdhd2GJsVUnY9OeIQHnv6GR48pmlByPpahyDWzln6stXhjIb-FLk1dmPujpL-EC8x4P0Ob0qERHKLnt59Xo5SziIn~TSTQ7YPMYSiCXJ4lrqGZhqez66wC9cBhcKSnPOXjNIl4F8U75e8kotxQi-51HQ2UAn8KELjMjwMztfRKqraNY1eagbTepyWDtDRuj0NXRVAz-sQkcpifYMAawehAR-arp1pLle9Uw6khF1j0IGwn54QkIIfPpoaJIjcqEpdZNp4It4DRq0x0ESHk7Pepd0PNzzsnmrgSa5kZw__&Key-Pair-Id=APKAI3B7HFD2VYJQK4MQ" width="110" alt="Claude Certified Architect - Foundations Certificate"/>
+      </a>
+    </td>
+    <td>
+      <strong>Claude Certified Architect - Foundations</strong><br/>
+      Certified in Claude-based architecture foundations, including agentic systems, Claude Code workflows, tool design, prompt engineering, structured outputs, context management, and reliability.
+    </td>
+  </tr>
+</table>
+
 ## Tech Stack
 
-**AI / LLM Engineering:** OpenAI API, Anthropic Claude, prompt engineering, RAG, agentic workflows, OCR pipelines, structured extraction, LLM-based automation
+### AI / LLM Engineering
 
-**Programming:** Python, Java, C#, JavaScript, TypeScript, PHP
+I work with LLM-based systems focused on real business use cases, including prompt engineering, structured extraction, OCR-based document processing, RAG, agentic workflows, and AI-powered automation. I have experience integrating models through APIs and designing workflows that combine language models with external tools, business rules, and data sources.
 
-**Data Engineering:** PySpark, SQL, Pandas, data pipelines, ETL/ELT, data modeling
+**Main tools and concepts:** OpenAI API, Anthropic Claude, Claude Code, prompt engineering, structured outputs, RAG, agents, OCR pipelines, Google Cloud Vision, LLM-based automation.
 
-**Back-end:** .NET, Node.js, Express.js, PHP/Symfony, REST APIs
+### Data Engineering
 
-**Front-end:** React, Angular, HTML5, CSS3
+I have experience building data-oriented solutions, working with SQL, Python, data transformation, and pipeline logic. My work includes extracting, cleaning, matching, and processing business data from different sources such as invoices, purchase orders, supplier files, and databases.
 
-**Databases:** MySQL, SQL Server, PostgreSQL
+**Main tools and concepts:** Python, SQL, PySpark, Pandas, ETL/ELT, data pipelines, data modeling, data validation, MySQL, SQL Server, PostgreSQL.
 
-**Cloud / DevOps:** AWS, Google Cloud Vision, serverless deployments, Git, CI/CD basics
+### Software Engineering
 
-**Business Intelligence:** Power BI, Excel
+I have built enterprise applications and internal tools using both desktop and web technologies. My experience includes business management systems, invoice processing applications, API integrations, back-end services, and front-end interfaces.
+
+**Main tools and technologies:** C#, .NET, WPF, WinForms, Java, PHP, Symfony, JavaScript, TypeScript, Node.js, Express.js, REST APIs.
+
+### Front-end Development
+
+I have worked on web interfaces for business applications, focusing on functional UIs connected to back-end services and databases.
+
+**Main tools and technologies:** React, Angular, HTML5, CSS3, JavaScript, TypeScript.
+
+### Cloud / DevOps
+
+I have experience working with cloud-based services, especially for OCR, AI integrations, and serverless-oriented deployments. I also use Git and CI/CD concepts as part of software delivery workflows.
+
+**Main tools and technologies:** Google Cloud, Google Cloud Vision, AWS, Git, GitHub, serverless deployments, CI/CD basics.
+
+### Business Intelligence
+
+I have used BI and reporting tools to analyze data, build dashboards, and support business decision-making.
+
+**Main tools:** Power BI, Excel, Tableau.
 
 ## Experience Highlights
 
@@ -38,78 +85,3 @@ I’m especially interested in AI engineering, LLM architecture, data platforms,
 * Worked on invoice-to-purchase-order matching, item-level reconciliation, and business process automation.
 * Built data-oriented solutions involving SQL, Python, Pandas, PySpark, and reporting tools.
 * Currently focused on AI/LLM architecture, agentic systems, and practical enterprise AI adoption.
-
-## Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://symfony.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fedegimenez\&theme=highcontrast\&hide_border=true\&locale=en\&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/fedegimenez/count.svg" alt="Visitor Counter" />
-</p>
