@@ -18,7 +18,7 @@ I'm especially interested in AI engineering, LLM architecture, data platforms, a
   <tr>
     <td align="center" width="160">
       <a href="[](https://www.credly.com/badges/5a216e62-6298-4e3c-9429-445ebf31629a)" target="_blank">
-        <img src="https://images.credly.com/size/220x220/images/2d613ff8-8879-430b-88c4-3af2bcd50b7c/image.png" width="110" alt="Google Cloud Professional Data Engineer Badge"/>
+        <img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" width="110" alt="Google Cloud Professional Data Engineer Badge"/>
       </a>
     </td>
     <td>
